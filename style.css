@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  
+  header{
+    border-bottom: 1px solid #1b85dc;
+    height: 10vh;
+    display:flex;
+  }
+  
+  #logo{
+    margin-left: 5vw;
+    width: 8vw;
+    height: 8vh;
+    margin-top: 1.2vh;
+  }
+  
+  #logo img{
+    height: 8vh;
+  }
+  h1{
+    text-align: center;
+    margin-top: 5vh;
+  }
+  main{
+    margin: 2vh 2vw;
+    min-height: 80vh;
+  }
+  .form-control{
+    width: 30vw;
+  }
+  #input-content{
+    height: 20vh;
+  }
+  .adicionar-nota{
+    margin-left: 5vw;
+    margin-top: 5vh;
+  }
+  .adicionar-nota button{
+    margin-bottom: 5vh;
+  }
+
+  
